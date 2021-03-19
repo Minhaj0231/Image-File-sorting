@@ -1,5 +1,5 @@
 datefinder-lexpredict==0.6.2
-Pillow==7.1.1
+Pillow==8.1.1
 pytesseract==0.3.3
 python-dateutil==2.8.1
 pytz==2019.3
